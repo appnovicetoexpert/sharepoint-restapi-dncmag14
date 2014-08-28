@@ -1,0 +1,1 @@
+C:\MS\REST\SPS_REST_APP_CRUD\SPS_REST_APP_CRUD\bin\Debug\app.publish\1.0.0.0\SPS_REST_APP_CRUD.app

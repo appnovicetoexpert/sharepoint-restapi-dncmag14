@@ -1,0 +1,1 @@
+bin\Debug\SPS_REST_APP_CRUD.wsp

@@ -1,0 +1,17 @@
+﻿/* Place custom styles below */
+#tbl,td{
+     border:double;
+}
+
+.table{
+     border:double;
+}
+
+.Container
+{
+  float:right;
+  height: 250px;
+  width:500px; 
+  padding:3px; 
+   overflow:auto;
+}
